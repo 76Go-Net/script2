@@ -1,0 +1,3 @@
+ function mainpost(){
+     main.innerHTML ="<div id='postid1'class='postctn'><div class='header'><img src='/storage/emulated/0/Storage/image/dd5b6ad9ca11cde0b667aee8bb53ee96.jpg'class='mark'/><div class='pagetitle'><h1 onclick='home(1)'>Daily Post</h1><span>Entertainment</span></div></div><div class='cover'><img onclick='visit(h1)'src='/storage/emulated/0/DCIM/Screenshots/IMG_20220702_210048.jpg'/></div></div>"
+ }
